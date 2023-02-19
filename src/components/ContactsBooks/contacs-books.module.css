@@ -1,0 +1,22 @@
+.wrapper {
+  display: flex;
+  gap: 30px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.block {
+  border: 1px solid;
+  border-radius: 5px;
+  padding: 15px;
+}
+
+.formElements {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.btn {
+  margin-top: 10px;
+}
